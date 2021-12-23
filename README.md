@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniketanand91
-- 👀 I’m interested in Andriod development 
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on android projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 email_id : aniketanand91@gmail.com
 
 <!---
